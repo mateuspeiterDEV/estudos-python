@@ -7,5 +7,6 @@ m = n1 * n2
 d = n1 / n2
 di = n1 // n2
 print('Os valores são {}, a soma é {}, a multiplicação é {}! '.format(n1+n2, s, m))
-print('a divisão é {} e a divisão inteira é {}, espero que tenha gostado! '.format(d, di)) 
+print('A divisão é {} e a divisão inteira é {}, espero que tenha gostado! '.format(d, di)) 
 input('pressione uma tecla para sair...')
+
